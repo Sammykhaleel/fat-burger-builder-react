@@ -4,6 +4,7 @@ import Aux from '../../hoc/Aux';
 import classes from './Layout.css';
 
 const layout = ( props ) => (
+    //place holder will be replaced with three components later on
     <Aux>
         <div>Toolbar, SideDrawer, Backdrop</div>
         <main className={classes.Content}>

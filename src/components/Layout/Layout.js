@@ -1,11 +1,12 @@
 import React from 'react';
 
 import Aux from '../../hoc/Aux';
-const layout = (props) => (
-    //place holder will be replaced with three components later on
+import classes from './Layout.css';
+
+const layout = ( props ) => (
     <Aux>
-        <div>Toolabr, SideDrawer, Backdrop </div>
-        <main>
+        <div>Toolbar, SideDrawer, Backdrop</div>
+        <main className={classes.Content}>
             {props.children}
         </main>
     </Aux>

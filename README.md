@@ -1,6 +1,5 @@
-Fat Burger Builder
-
-This app allow users to create thier own burger by selectiong the desire ingredients and seen that as an interactive burger dynamic image animation that changes as the ingredient changes.
+A ReactJs app, Fat Burger Builder.
+This app allows users to create their own burger by selecting the desire ingredients and see that as an interactive burger dynamic image animation that changes as the ingredient changes.
 
 screenshot below.
 
